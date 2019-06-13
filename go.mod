@@ -1,3 +1,3 @@
-module github.com/winpooh32/chains
+module github.com/WinPooh32/chains
 
 go 1.12
