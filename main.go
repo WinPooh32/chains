@@ -1,12 +1,11 @@
 package main
 
 import (
-	"net"
 	"crypto/md5"
 	"fmt"
 	"log"
 
-	"github.com/WinPooh32/awesome-merkle-tree/merkle"
+	"github.com/WinPooh32/chains/merkle"
 )
 
 func md5Wrap(data []byte) string {
